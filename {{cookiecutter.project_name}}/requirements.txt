@@ -154,7 +154,7 @@ social-auth-core==2.0.0
 sqlparse==0.2.4
 strict-rfc3339==0.7
 swagger-spec-validator==2.4.0
-Twisted==18.9.0
+Twisted==22.4.0
 txaio==2.8.2
 ua-parser==0.8.0
 unicodecsv==0.14.1
