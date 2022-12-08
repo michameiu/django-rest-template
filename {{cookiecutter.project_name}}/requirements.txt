@@ -49,7 +49,7 @@ azure-storage==0.20.0
 boto3==1.7.69
 botocore==1.10.69
 cachetools==3.0.0
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.2
 channels==2.1.5
 channels-api==0.4.0
